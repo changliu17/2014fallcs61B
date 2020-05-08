@@ -1,0 +1,2 @@
+第一个Lab，原来的要求是在Emacs上跑。我用的VS。lab里主要两个任务，第一个是改错，把Names.java跑通；第二个是给学生名单排序。目前看来只能做第一个。
+里面的错误有：忘记打分号，substring()的参数是开始截取和结束截取的index，method要加的parentheses不能漏。
